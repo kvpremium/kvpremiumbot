@@ -1,0 +1,5 @@
+TOKEN = "8917590451:AAEOiogKFCeYs8Kjh4H-vVUfpkS4AcYwvbw"
+
+ADMIN_ID = 8660678067
+
+SHOP_NAME = "KV Premium Shop"
